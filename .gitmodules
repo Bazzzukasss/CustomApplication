@@ -1,0 +1,9 @@
+[submodule "app_common"]
+	path = app_common
+	url = ../app_common.git
+[submodule "test_app_common"]
+	path = test_app_common
+	url = ../test_app_common.git
+[submodule "test_widgets"]
+	path = test_widgets
+	url = ../test_widgets.git
